@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1641128589 source:c:\users\emre3\onedrive\masaüstü\term_proj\term_pro\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	"IntSLList.h"
+	<string>
+
+1641144158 source:c:\users\emre3\onedrive\masaüstü\term_proj\term_pro\intsllist.cpp
+	"intSLList.h"
+	<iostream>
+	<fstream>
+
+1641073235 c:\users\emre3\onedrive\masaüstü\term_proj\term_pro\intsllist.h
+	<iostream>
+
+1637311134 source:c:\users\emre3\onedrive\masaüstü\term_proj\term_pro\codestack.cpp
+	<iostream>
+	<string>
+	"codeStack.h"
+
+1636753284 c:\users\emre3\onedrive\masaüstü\term_proj\term_pro\codestack.h
+	<string>
+
+1637311134 c:\users\emre3\onedrive\masaüstü\term_proj\term_pro\codestack.cpp
+	<iostream>
+	<string>
+	"codeStack.h"
+
+1641072713 c:\users\emre3\onedrive\masaüstü\term_proj\term_pro\undos.h
+	<iostream>
+
